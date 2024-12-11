@@ -48,7 +48,7 @@ https://ln.run/1fZGp
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="Local",GMA TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="Local",GMA TV YouTube LIVE
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="Local",GMA YT HD
 https://youtube.com/@gmanetwork/live
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News HD
